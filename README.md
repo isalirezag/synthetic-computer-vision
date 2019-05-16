@@ -78,6 +78,10 @@ See also: http://riemenschneider.hayko.at/vision/dataset/index.php?filter=+synth
 
 <!-- The div id is bib citekey from google scholar, use div id makes it easier to reference a work in this document. -->
 
+### 2018
+Training my car to see using virtual worlds
+	([Paper](https://www.sciencedirect.com/science/article/pii/S0262885617301154))
+
 ### 2017
 
 (Total=11)
